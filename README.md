@@ -177,6 +177,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **If this project helped you learn about regression models and ensemble methods, please star this repository!**
 
 ### 🔗 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website]
-- **Email**: [Your Email] 
+- **LinkedIn**: https://www.linkedin.com/in/mashter/
